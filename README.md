@@ -1,2 +1,2 @@
 # funktor
-Funktor - z kursu Udemy
+Function object
